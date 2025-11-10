@@ -38,8 +38,7 @@ Server berjalan pada `http://localhost:3000`. Berikut adalah daftar endpoint yan
 
 1.  **Clone repositori ini:**
     ```bash
-    git clone [URL_REPOSITORI_ANDA]
-    cd praktikum5_restful_crud
+    git clone https://github.com/Siti-Magfiratun-Warahmah/WSE-P5-CRUD-REST-230104040059
     ```
 
 2.  **Instal dependencies:**
